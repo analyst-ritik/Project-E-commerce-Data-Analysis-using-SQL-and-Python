@@ -32,4 +32,7 @@ Experience with data visualization tools to present complex data clearly.
 
 ![total revenue](https://github.com/user-attachments/assets/aa965627-82e2-4459-ba39-e47e73a1c8f4)
 
+![top 3 customers](https://github.com/user-attachments/assets/ed4692dc-95c8-4ad0-bfc3-b19a4c1b9a0a)
+
+
 
